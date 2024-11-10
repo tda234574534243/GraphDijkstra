@@ -50,5 +50,6 @@
         {"source": "Bitexco", "target": "Cầu Ánh Sao", "link": "35", "distance": 9.4, "vehicles": ["Xe máy", "Xe ô tô"]},
         {"source": "Phố đi bộ Bùi Viện", "target": "Công viên Tao Đàn", "link": "36", "distance": 2.6, "vehicles": ["Xe máy", "Xe ô tô", "Đi bộ"]},
         {"source": "Phố đi bộ Bùi Viện", "target": "Phố đi bộ Nguyễn Huệ", "link": "37", "distance": 2.2, "vehicles": ["Xe máy", "Xe ô tô", "Đi bộ"]}
+
     ]
 }

@@ -1,0 +1,17 @@
+{
+    "nodes": [
+        {"id": "Hà Nội"},
+        {"id": "Hải Phòng"},
+        {"id": "Đà Nẵng"},
+        {"id": "TP Hồ Chí Minh"},
+        {"id": "Nha Trang"}
+    ],
+    "edges": [
+        {"source": "Hà Nội", "target": "Hải Phòng", "weight": 120},
+        {"source": "Hà Nội", "target": "Đà Nẵng", "weight": 800},
+        {"source": "Hải Phòng", "target": "Đà Nẵng", "weight": 700},
+        {"source": "Đà Nẵng", "target": "TP Hồ Chí Minh", "weight": 600},
+        {"source": "TP Hồ Chí Minh", "target": "Nha Trang", "weight": 450},
+        {"source": "Nha Trang", "target": "Đà Nẵng", "weight": 500}
+    ]
+}
